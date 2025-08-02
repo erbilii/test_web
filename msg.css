@@ -1,0 +1,15 @@
+a{
+    color: black;
+    text-decoration: none;
+    padding: 7px;
+}
+
+a:hover{
+    color: #0000006f;
+    background-color: #c1ffa2;
+    border-radius: 3px;
+}
+
+h1{
+    color: aqua;
+}
