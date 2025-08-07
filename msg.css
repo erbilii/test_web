@@ -1,15 +1,19 @@
 a{
-    color: black;
+    color: white;
     text-decoration: none;
     padding: 7px;
 }
 
 a:hover{
-    color: #0000006f;
-    background-color: #c1ffa2;
-    border-radius: 3px;
+    text-decoration: underline;
 }
 
 h1{
     color: aqua;
+}
+
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+    padding: 10px;
 }
